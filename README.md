@@ -84,3 +84,4 @@ Write a simple program in SCALA using Apache Spark framework
 <p align="justify">d. Number of Males vaccinated</p>
 <p align="justify">e. Number of females vaccinated</p>
 "# DT" 
+"# DT" 
